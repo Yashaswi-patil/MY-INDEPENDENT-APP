@@ -1,0 +1,25 @@
+body{
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    background-image: url(Image.jpg);
+}
+h1{
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    font-family: 'Praise', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Lobster Two', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    font-family: 'Praise', cursive;
+    text-align: left;
+    font-size: 25px;
+}
